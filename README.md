@@ -7,11 +7,11 @@ I work with **Tableau, Excel, SQL, and Python**, and I enjoy creating dashboards
 
 ## 🔧 Skills & Tools
 
-- **Tableau** — dashboards, storytelling, visual analytics  
-- **Excel** — Pivot Tables, data cleaning, preprocessing  
-- **SQL** — data extraction, joins, aggregations  
-- **Python** — Pandas, data cleaning  
-- **Data Visualization** — charts, insights, patterns  
+- **Tableau** - dashboards, storytelling, visual analytics  
+- **Excel** - Pivot Tables, data cleaning, preprocessing  
+- **SQL** - data extraction, joins, aggregations  
+- **Python** - Pandas, data cleaning  
+- **Data Visualization** - charts, insights, patterns  
 
 ---
 
