@@ -35,4 +35,4 @@ Interactive dashboard analyzing salary trends by job title, experience, company 
 ## 📬 Contact Me
 
 - **Email:** mashakyka@gmail.com  
-- **LinkedIn:**[https://www.linkedin.com/in/mariia-khrabra-0a423723b/]## Hi there 👋
+- **LinkedIn:**[[https://www.linkedin.com/in/mariia-khrabra-0a423723b/](https://www.linkedin.com/in/mariia-khrabra-0a423723b/)]## Hi there 👋
